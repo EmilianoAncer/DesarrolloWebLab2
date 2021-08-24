@@ -1,0 +1,19 @@
+.container {
+    display: flex;
+}
+nav {
+    width: 35%;
+    float: left;
+}
+.section-container {
+    width: fit-content;
+}
+aside {
+    width: 30%;
+    float: right;
+}
+footer {
+    text-align: center;
+    background-color: black;
+    color: white;
+}
